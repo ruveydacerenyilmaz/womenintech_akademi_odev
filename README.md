@@ -26,8 +26,8 @@ Doğruysa da 'd' harflerini giriyoruz.
 
 4- Taş-Kağıt-Makas Oyunu
 * Oyun kuralları;
-- Taş makası ezer.
-- Makas kağıdı keser.
-- Kağıt taşı sarar.
+* Taş makası ezer.
+* Makas kağıdı keser.
+* Kağıt taşı sarar.
 
 ![rockPaperScissors](https://github.com/ruveydacerenyilmaz/womenintech_akademi_odev/blob/main/images/rockPaperScissors.png)
