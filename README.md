@@ -5,14 +5,14 @@ Akademi kapsamında verilen ödevlerin reposu.
 1- Yıldızlarla Üçgenler Çizme 
 * '*' ile farklı şekillerde yıldızlarla çizilen üçgenleri görebilirsiniz.
 
-![Ucgenler](image.png) 
+![Ucgenler](https://github.com/ruveydacerenyilmaz/womenintech_akademi_odev/blob/main/images/image.png) 
 ------------
 
 2- Bilgisayarın Tuttuğu Sayıyı Tahmin Etme Oyunu
 * Random kütüphanesi ile bilgisayarın tuttuğu sayıyı tahmin etme oyunu.
 * Random kütüphanesi ile bilgisayara bir sayı tutturulur. Tahmin etmek için girdiğimiz sayı, sistemden büyük veya küçükse uyarı verip yönergeler dahilinde sayıyı değiştiriyoruz. Eğer girdiğimiz sayı doğruysa da tebrik mesajı alıyoruz.
 
-![RandomNumber](random.PNG)
+![RandomNumber](https://github.com/ruveydacerenyilmaz/womenintech_akademi_odev/blob/main/images/random.png)
 ------------
 
 3- Bilgisayara  Tuttuğumuz Sayıyı Tahmin Ettirme Oyunu
@@ -21,7 +21,7 @@ Küçükse 'k' harfini giriyoruz ardından bu sefer bilgisayar bize daha büyük
 Büyükse 'b' harfini giriyoruz ardından bilgisayar bize daha küçük bir sayı gönderiyor, 
 Doğruysa da 'd' harflerini giriyoruz. 
 
-![ComputerGuess](computerguess.png)
+![ComputerGuess](https://github.com/ruveydacerenyilmaz/womenintech_akademi_odev/blob/main/images/computerguess.png)
 ------------
 
 4- Taş-Kağıt-Makas Oyunu
@@ -30,4 +30,4 @@ Doğruysa da 'd' harflerini giriyoruz.
 - Makas kağıdı keser.
 - Kağıt taşı sarar.
 
-![rockPaperScissors](rockPaperScissors.png)
+![rockPaperScissors](https://github.com/ruveydacerenyilmaz/womenintech_akademi_odev/blob/main/images/rockPaperScissors.png)
