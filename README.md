@@ -1,9 +1,13 @@
 # womenintech_akademi_odev
 Akademi kapsamında verilen ödevlerin reposu.
 ------------
-
+<details>
+<summary>Yıldızlarla Üçgenler Çizme</summary>
+<br>
 1- [Yıldızlarla Üçgenler Çizme](https://github.com/ruveydacerenyilmaz/womenintech_akademi_odev/blob/main/ucgenler.ipynb)
-* '*' ile farklı şekillerde yıldızlarla çizilen üçgenleri görebilirsiniz.
+'*' ile farklı şekillerde yıldızlarla çizilen üçgenleri görebilirsiniz.
+
+</details>
 
 ------------
 
