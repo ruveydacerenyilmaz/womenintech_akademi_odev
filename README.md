@@ -67,7 +67,7 @@ Doğruysa da 'd' harflerini giriyoruz.
 * Karıştırılan liste üzerinde sorted() kullanmadan, sıralama algoritmasını kullanarak listeyi sıralayınız.
 
 </details>
-
+<details>
 <summary>Hedef Sayıyı Oluşturan Indexleri Bulma</summary>
 
 [Indexteki Sayıların Toplamının Hedef Sayıyı Oluşturması](https://github.com/ruveydacerenyilmaz/womenintech_akademi_odev/blob/main/5-veriyapilari_sorular.ipynb/8-toplamitargetindex.ipynb)
