@@ -70,7 +70,7 @@ Doğruysa da 'd' harflerini giriyoruz.
 <details>
 <summary>Hedef Sayıyı Oluşturan Indexleri Bulma</summary>
 
-[Indexteki Sayıların Toplamının Hedef Sayıyı Oluşturması](https://github.com/ruveydacerenyilmaz/womenintech_akademi_odev/blob/main/5-veriyapilari_sorular.ipynb/8-toplamitargetindex.ipynb)
+[Indexteki Sayıların Toplamının Hedef Sayıyı Oluşturması](https://github.com/ruveydacerenyilmaz/womenintech_akademi_odev/blob/main/5-veriyapilari_sorular.ipynb/8-indexlerintoplami.ipynb)
 * Fonksiyon bir integer array nums ve bir hedef target değişkeni almalı ve bizlere toplamı target olan indexleri dönmeli
 - Aynı index’teki değeri iki defa kullanamayız.
 
