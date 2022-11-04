@@ -85,7 +85,7 @@ Doğruysa da 'd' harflerini giriyoruz.
 <summary> 'all_data' Üzerinde Dosya İşlemleri</summary>
 
 [all_data Dosyası Üzerinde Yapılan İşlemler](https://github.com/ruveydacerenyilmaz/womenintech_akademi_odev/tree/main/6-dosyaOdevi)
-Düzensiz ve duplicate veriden oluşan "all_data.txt" dosyası üzerinde yapılacak olan işlemler;
+* Düzensiz ve duplicate veriden oluşan "all_data.txt" dosyası üzerinde yapılacak olan işlemler;
 
 * Bütün text küçük harfe çevrilecek  
 * Türkçe karakterler replace edilecek (ş -> s, ı -> i, ö -> o, ğ -> g, ç -> c, ü -> u)+
