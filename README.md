@@ -93,6 +93,6 @@ Düzensiz ve duplicate veriden oluşan "all_data.txt" dosyası üzerinde yapıla
 * Bir satır tamamen sayılardan oluşuyorsa satırı yeni dosyaya ekleme 
 * Her satırda bir cümle olacak şekilde satırları düzenleyin  
 * Satır bazlı unique dönüştürme yani dosya içerisinde duplicate veri barındırılmayacak 
-[gif](https://media.giphy.com/media/xT1R9EbolF7trQnIyI/giphy.gif)
+![gif](https://media.giphy.com/media/xT1R9EbolF7trQnIyI/giphy.gif)
 
 </details>
